@@ -1,0 +1,26 @@
+button{
+    background-color: orange; 
+    color: antiquewhite;
+    border-radius: 10px
+}
+h1{
+    color: red ;
+    font-family:Poppins ;
+     text-align: center;
+     font-weight: 500;
+     line-height: 30px
+}
+p{
+    text-align: center; 
+    color: orchid; 
+    font-size: 20px;
+    font-family: Poppins;
+}
+form{
+    background-image:url(https://www.creativefabrica.com/wp-content/uploads/2023/03/03/Beautiful-Sunset-At-The-Beach-In-Front-Of-A-Tropical-63087010-1.png) ; 
+    width: 600px;
+    margin-left: 40px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
